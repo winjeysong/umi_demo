@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# umi dev dir
+src/pages/.umi

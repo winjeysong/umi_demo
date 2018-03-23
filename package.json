@@ -1,0 +1,29 @@
+{
+  "name": "umi_demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "umidemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winjeysong/umi_demo.git"
+  },
+  "author": "winjeysong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/winjeysong/umi_demo/issues"
+  },
+  "homepage": "https://github.com/winjeysong/umi_demo#readme",
+  "dependencies": {
+    "umi": "^1.0.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.42",
+    "babel-eslint": "^7.2.3",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3"
+  }
+}
